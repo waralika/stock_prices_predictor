@@ -7,10 +7,15 @@ This is the code for the Stock Price Prediction . The code uses the scikit-learn
 # Dependencies
 
 numpy (http://www.numpy.org/)
+
 tweepy (http://www.tweepy.org)
+
 csv (https://pypi.python.org/pypi/csv)
+
 textblob (https://textblob.readthedocs.io/en/dev/)
+
 keras (https://keras.io)
+
 Install missing dependencies using pip
 
 # Demo Usage
